@@ -74,7 +74,7 @@
 .banner-section{
     margin-top: 102px;
     padding: 100px 0;
-    background: url(img/banner-bg.jpg);
+    background: url(banner-bg.jpg);
     background-size: cover;
     background-position: center;
 }
@@ -141,7 +141,7 @@
 /* FOOTER */
 
 .footer{
-    background: url(img/footer-bg.jpg);
+    background: url(footer-bg.jpg);
     background-size: cover;
     padding: 100px 0px;
 }
@@ -151,3 +151,11 @@
 }
 
 
+.footer-logo{
+    margin-top: 1000px;
+    position: fixed;
+    left: 1300px;
+    right: 0;
+    top: 0;
+    z-index: 2;
+}
